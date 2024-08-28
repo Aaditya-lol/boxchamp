@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --menu: "Saira Condensed";
+    --body-text: Inter;
+  
+    /* font sizes */
+    --menu-size: 16px;
+    --heading-2-size: 50px;
+  
+    /* Colors */
+    --soft-grey: #e8e7e8;
+    --color-crimson: #e84444;
+    --white: #fff;
+    --grey: #434443;
+  
+    /* Gaps */
+    --gap-3xs: 10px;
+    --gap-5xs: 8px;
+  
+    /* Paddings */
+    --padding-3xs: 10px;
+  }
+  

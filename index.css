@@ -1,0 +1,358 @@
+.desktop-child,
+.desktop-item {
+  position: absolute;
+  object-fit: cover;
+}
+.desktop-child {
+  bottom: 0;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 356px;
+  color: #000;
+}
+.desktop-item {
+  top: 723px;
+  left: 160px;
+  width: 525px;
+  height: 503px;
+}
+.icon-linkedin-2-1 {
+  width: 30px;
+  position: relative;
+  height: 30px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.group-icon {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.icon-instagram-1-1 {
+  text-decoration: none;
+  width: 30px;
+  position: relative;
+  height: 30px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.icon-linkedin-2-1-parent {
+  text-decoration: none;
+  position: absolute;
+  top: 1469px;
+  left: 1110px;
+  width: 106px;
+  height: 30px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 38px;
+}
+.how-we-got {
+  margin: 0;
+}
+.how-we-got-container {
+  position: absolute;
+  top: 756px;
+  left: 825px;
+  line-height: 110%;
+  color: #000;
+}
+.next {
+  color: var(--color-crimson);
+}
+.read-for-your-container {
+  position: absolute;
+  top: 1429px;
+  left: 160px;
+  line-height: 110%;
+}
+.lorem-ipsum-dolor-container {
+  position: absolute;
+  top: 875px;
+  left: 805px;
+  font-size: var(--menu-size);
+  line-height: 170%;
+  display: inline-block;
+  font-family: var(--body-text);
+  color: var(--grey);
+  width: 454px;
+  height: 242px;
+}
+.desktop-inner,
+.frame-child {
+  background: linear-gradient(#e84444, #e84444), #fff;
+}
+.desktop-inner {
+  position: absolute;
+  top: 766px;
+  left: 805px;
+  width: 6px;
+  height: 89px;
+}
+.frame-child {
+  width: 86px;
+  height: 38px;
+  z-index: 0;
+}
+.sign-up1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--menu-size);
+  line-height: 110%;
+  font-family: var(--menu);
+  color: var(--white);
+  text-align: left;
+}
+.sign-up {
+  width: 46px;
+  position: absolute;
+  margin: 0 !important;
+  top: 10px;
+  left: 17px;
+  height: 18px;
+  z-index: 1;
+}
+.instance-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 1171px;
+  left: 805px;
+  width: 86px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.email-icon {
+  width: 30px;
+  position: relative;
+  height: 40px;
+  object-fit: cover;
+}
+.aadityachhatraliyagmailcom {
+  position: relative;
+  line-height: 170%;
+}
+.aadityachhatraliyagmailcom-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-3xs);
+}
+.email-parent,
+.frame-parent,
+.privacy-policy-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-parent,
+.privacy-policy-parent {
+  align-items: flex-start;
+  gap: 57px;
+}
+.frame-parent {
+  position: absolute;
+  top: 1615px;
+  left: 160px;
+  align-items: center;
+  gap: 459px;
+  font-size: var(--menu-size);
+  font-family: var(--body-text);
+}
+.rectangle-icon {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 720px);
+  width: 1440px;
+  height: 620px;
+  object-fit: cover;
+}
+.image-1-icon {
+  width: 45px;
+  position: relative;
+  height: 45px;
+  object-fit: cover;
+}
+.cross-fit {
+  position: relative;
+  font-size: var(--menu-size);
+  line-height: 170%;
+  width: 60px;
+  font-family: var(--menu);
+  background: linear-gradient(#e84444, #e84444), #fff;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  text-align: left;
+}
+.image-1-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.layer-1-icon {
+  width: 45px;
+  position: relative;
+  height: 45px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-group,
+.layer-1-parent {
+  display: flex;
+  justify-content: flex-start;
+}
+.layer-1-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--gap-5xs);
+}
+.frame-group {
+  position: absolute;
+  top: 489px;
+  left: 379px;
+  box-shadow: 0 19px 80px rgba(204, 85, 85, 0.25);
+  background-color: var(--white);
+  width: 623px;
+  height: 157px;
+  flex-direction: row;
+  align-items: flex-end;
+  padding: 37px 126px;
+  box-sizing: border-box;
+  gap: 120px;
+}
+.sign-up2 {
+  width: 46px;
+  position: absolute;
+  margin: 0 !important;
+  top: 10px;
+  left: 20px;
+  height: 18px;
+  z-index: 1;
+}
+.instance-group {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 35px;
+  left: 1132px;
+  width: 82px;
+  height: 38px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+}
+.home {
+  position: relative;
+  font-size: var(--menu-size);
+  line-height: 110%;
+  font-family: var(--menu);
+  color: var(--white);
+  text-align: left;
+}
+.home-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 49px;
+  left: 764px;
+  width: 321px;
+  height: 18px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 50px;
+}
+.play-icon {
+  width: 49px;
+  position: relative;
+  height: 51px;
+  object-fit: contain;
+}
+.play-wrapper {
+  position: absolute;
+  top: -10px;
+  left: -10px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+}
+.logo-icon-1 {
+  width: 49px;
+  position: relative;
+  height: 51px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.boxchamp {
+  position: relative;
+  line-height: 90%;
+  mix-blend-mode: linear-dodge;
+}
+.logo-icon-1-parent {
+  position: absolute;
+  top: 33px;
+  left: 163px;
+  width: 188px;
+  height: 51px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 19px;
+  font-size: 32px;
+}
+.fight-like-a-container {
+  position: absolute;
+  top: 205px;
+  left: 163px;
+  font-size: 130px;
+  line-height: 90%;
+}
+.desktop {
+  width: 100%;
+  position: relative;
+  background-color: var(--soft-grey);
+  height: 1700px;
+  overflow: hidden;
+  opacity: 0.77;
+  text-align: left;
+  font-size: var(--heading-2-size);
+  color: var(--white);
+  font-family: var(--menu);
+}
